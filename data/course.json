@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "764e4d78-e7ba-233a-1e9a-5858fd73f5ba",
+  "instructors": {
+    "content": [
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e",
+      "e029ec93-a803-8bcc-52a9-6777c73e6b3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "eb981c9f-19c1-563a-1fac-a0d4422e090e",
+    "website": "14-462-advanced-macroeconomics-ii-spring-2004"
+  },
+  "course_title": "Advanced Macroeconomics II",
+  "course_description": "14.462 is the second semester of the second-year Ph.D. macroeconomics sequence.\n\nThe course is intended to introduce the students, not only to particular areas of current research, but also to some very useful analytical tools. It covers a selection of topics that varies from year to year. Recent topics include:\n\n*   Growth and Fluctuations\n*   Heterogeneity and Incomplete Markets\n*   Optimal Fiscal Policy\n*   Time Inconsistency\n*   Reputation\n*   Coordination Games and Macroeconomic Complementarities\n*   Information\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.462",
+  "course_image_thumbnail": {
+    "content": "ca6445b6-4981-64d1-135a-0bdf1bf00741",
+    "website": "14-462-advanced-macroeconomics-ii-spring-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "5fbb6c0d-4675-4c1d-9151-5e3532cca158",
+  "site_short_id": "14.462-spring-2004",
+  "site_url_path": "courses/14-462-advanced-macroeconomics-ii-spring-2004",
+  "title": "Course Metadata"
+}
